@@ -8,7 +8,6 @@ import plotly.io as pio
 import plotly.figure_factory as ff
 import numpy as np
 import pandas as pd
-# Data generation
 import base64
 import datetime
 import io
